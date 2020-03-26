@@ -1,8 +1,12 @@
-# Be The Hero - Em desenvolvimento
+# Be The Hero
+---
+###### Em desenvolvimento
 
-Back-end: nodejs,
-Front-end: ReactJS 
-Mobile: React Native
+> Back-end: NodeJs
+>
+> Front-end: ReactJS 
+>
+> Mobile: React Native <br>
 
-# Descrição
+### Descrição
 Uma aplicação para Ongs registrarem casos e pessoas ajudarem com valores, podendo entrar em contato com as devidas ongs, ajudando-as e se tornando um herói!
