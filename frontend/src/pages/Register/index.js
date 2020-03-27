@@ -49,7 +49,7 @@ export default function Register() {
 
                     <Link className="back-link" to="/" title="Voltar para o logon">
                         <FiArrowLeft size="16" color="#E02041" />
-                        Voltar para o logon
+                        Voltar para o login
                     </Link>
                 </section>
 

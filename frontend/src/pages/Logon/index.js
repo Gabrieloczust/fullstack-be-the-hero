@@ -36,14 +36,14 @@ export default function Logon() {
                 <img src={logoImg} alt="Be The Hero" />
 
                 <form onSubmit={handleLogin}>
-                    <h1>Faça seu logon</h1>
+                    <h1>Faça seu login</h1>
                     <input placeholder="Sua ID" autoFocus value={id} onChange={e => setId(e.target.value)} />
                     <button className="button" type="submit" title="Entrar">Entrar</button>
                 </form>
 
                 <Link className="back-link" to="/register">
                     <FiLogIn size="16" color="#E02041" />
-                    Já tenho cadastro
+                    Não tenho cadastro
                 </Link>
             </section>
 
